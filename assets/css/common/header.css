@@ -7,6 +7,9 @@
     margin-inline-end: auto;
     line-height: var(--header-height);
 }
+.header {
+   background-color:var(--tertiary);
+}
 
 .dark .header {
    background-color:var(--entry)
