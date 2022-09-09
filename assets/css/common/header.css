@@ -8,6 +8,10 @@
     line-height: var(--header-height);
 }
 
+.dark .header {
+   background-color:var(--entry)
+}
+
 .nav a {
     display: block;
 }
